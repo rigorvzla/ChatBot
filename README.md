@@ -21,6 +21,14 @@ podrás realizar dicha acción de manera fácil rápida y sencilla,
 una vez agregado las parabras y las respectivas respuestas,
 deberás copiar la carpeta creada y pegarla en la ruta raíz del 
 proyecto dónde tienes la dll y eso sería todo.
+- Ingresa en "Palabra" una palabra principal, Ej. Hola
+- Ingresar en "Intención" el objetivo de esa palabra, Ej. Bienvenida
+- Ingresar en sinónimos las palabras , que tengan un significado similar y separarlas con un signo "-" Ej. Epale-Hey
+- La descripción es opcional
+- Ingresar en respuesta, la respuesta que obtendrás del bot, puedes dar múltiples respuestas separando cada oración con "-"
+Ej.Hola mucho gusto-Epale que hay de nuevo.
+
+Luego hacer click en guardar.
 
 # Ejemplo
 (Console App)
