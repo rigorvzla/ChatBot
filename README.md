@@ -22,5 +22,6 @@ una vez agregado las parabras y las respectivas respuestas,
 deberás copiar la carpeta creada y pegarla en la ruta raíz del 
 proyecto dónde tienes la dll y eso sería todo.
 
-#Ejemplo (Console App)
+# Ejemplo
+(Console App)
 https://github.com/rigorvzla/ChatBot/blob/main/ChatBot_Console
