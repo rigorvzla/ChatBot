@@ -10,10 +10,10 @@ Deberás instalar las dependencias correspondiente
 - AIRH_IA (Agregar desde referencia)
 
 Cargar el método 
-StartBot();
+- StartBot();
 al inicio del programa y luego usar el método string 
-RespuestaBot(string input) esto devolverá la respuesta del 
-bot a lo que le allá escrito.
+- RespuestaBot(string input);
+esto devolverá la respuesta del bot a lo que le allá escrito.
 
 # Entrenamiento
 Para poder "entrenar" el bot, adjunto un programa con el cual
