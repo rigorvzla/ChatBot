@@ -23,42 +23,4 @@ deberás copiar la carpeta creada y pegarla en la ruta raíz del
 proyecto dónde tienes la dll y eso sería todo.
 
 #Ejemplo (Console App)
-
-        static void Main(string[] args)
-        {
-            Wellcome();
-
-            while (Salir)
-            {
-                Console.ForegroundColor = ConsoleColor.Blue;
-                string Pregunta = Console.ReadLine().Trim();
-
-                if (Pregunta.Equals("salir"))
-                {
-                    Salir = false;
-                }
-                else
-                {
-                    Console.ForegroundColor = ConsoleColor.DarkRed;
-                    Console.WriteLine(AIRH_IA.Bot.RespuestaBot(Pregunta));
-                    Console.WriteLine("");
-                }
-            }
-            Console.WriteLine("");
-            Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("Aplicación Finalizada");
-            Console.ReadKey();
-        }
-        
-         private static void Wellcome()
-        {
-            Console.ForegroundColor = ConsoleColor.Green;
-            AIRH_IA.Bot.StartBot();
-            Console.WriteLine("==============================");
-            Console.WriteLine("¡Bienvenido/a al ChatBot AIRH!");
-            Console.WriteLine("==============================");
-            Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("");
-            Console.WriteLine(@"- Escriba ""Salir"" para cerrar el programa.");
-            Console.WriteLine("");
-        }
+https://github.com/rigorvzla/ChatBot/blob/main/ChatBot_Console
