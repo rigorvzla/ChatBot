@@ -1,9 +1,8 @@
 class ChatBot_Console
     {
-        static bool Salir = true;
-
         static void Main(string[] args)
         {
+            bool Salir = true;
             Wellcome();
 
             while (Salir)
