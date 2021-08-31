@@ -1,11 +1,7 @@
-<p align="center">
+ # ChatBot
+<p align="center">       
 <img src="https://user-images.githubusercontent.com/41328887/131534044-c90e5780-18c5-43c7-82a6-4b7b8f05696e.png" width="324" height="324">
 </p>
-# ChatBot
-Está librería está basada en la analogía de Tensorflow,
-podrás darle gran cantidad de uso , de acuerdo a tus 
-necesidades, está 100% creado en C# y su implementación
-es muy simple.
 
 # Implementación
 Deberás instalar las dependencias correspondiente
