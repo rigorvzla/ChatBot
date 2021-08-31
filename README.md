@@ -4,7 +4,7 @@
 </p>
 
 # Implementación
-Deberás instalar las dependencias correspondiente
+Crea tu proyecto de preferencia e instalar las dependencias correspondiente
 
 - MessagePack 2.2.113 (Nugget)
 - AIRH_IA (Agregar desde referencia)
