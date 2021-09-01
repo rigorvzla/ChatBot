@@ -1,5 +1,4 @@
-class ChatBot_Console
-    {
+
         static void Main(string[] args)
         {
             bool Salir = true;
@@ -30,7 +29,7 @@ class ChatBot_Console
         private static void Wellcome()
         {
             Console.ForegroundColor = ConsoleColor.Green;
-            AIRH_IA.Bot.StartBot();
+            AIRH_IA.Bot.StartBot(); /*Método para inicializar el bot*/
             Console.WriteLine("==============================");
             Console.WriteLine("¡Bienvenido/a al ChatBot AIRH!");
             Console.WriteLine("==============================");
@@ -39,4 +38,3 @@ class ChatBot_Console
             Console.WriteLine(@"- Escriba ""Salir"" para cerrar el programa.");
             Console.WriteLine("");
         }
-    }
