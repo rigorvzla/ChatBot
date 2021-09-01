@@ -16,7 +16,7 @@
                 else
                 {
                     Console.ForegroundColor = ConsoleColor.DarkRed;
-                    Console.WriteLine(AIRH_IA.Bot.RespuestaBot(Pregunta));
+                    Console.WriteLine(AIRH_IA.Bot.Respuesta(Pregunta));
                     Console.WriteLine("");
                 }
             }
