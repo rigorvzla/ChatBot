@@ -34,5 +34,5 @@ Luego hacer click en guardar.
 (Console App)
 https://github.com/rigorvzla/ChatBot/blob/main/ChatBot_Console
 
-# Video
-
+# Tutorial
+https://youtu.be/xNaXwPWvkpo
