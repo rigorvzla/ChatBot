@@ -35,4 +35,4 @@ Luego hacer click en guardar.
 https://github.com/rigorvzla/ChatBot/blob/main/ChatBot_Console
 
 # Tutorial
-https://youtu.be/xNaXwPWvkpo
+https://www.youtube.com/watch?v=xNaXwPWvkpo
