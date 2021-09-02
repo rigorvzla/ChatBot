@@ -33,3 +33,6 @@ Luego hacer click en guardar.
 # Ejemplo
 (Console App)
 https://github.com/rigorvzla/ChatBot/blob/main/ChatBot_Console
+
+# Video
+
