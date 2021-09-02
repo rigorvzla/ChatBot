@@ -1,4 +1,4 @@
-```C#
+```javascript
         static void Main(string[] args)
         {
             bool Salir = true;
